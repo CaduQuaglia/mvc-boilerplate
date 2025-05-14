@@ -1,4 +1,4 @@
-# Funcionamento
+# Funcionamento - Atividade de sala
 No projeto, o **model** é responsável por acessar e manipular o banco de dados, como criar e deletar alunos ou cursos. O **controller** recebe as requisições dos usuários, comunica com o model para tratar os dados e define qual resposta será enviada ao usuário. Já os **endpoints** são as rotas que permitem que o usuário interaja com o sistema, conectando as requisições HTTP ao controller.
 
 # Boilerplate MVC em Node.js com PostgreSQL
